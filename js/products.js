@@ -4,11 +4,11 @@ const products = [
     id: 1,
     name: "404 Not Found T-Shirt",
     description: "A classic tee with a humorous take on the infamous 404 error.",
-    price: 24.99,
+    price: 999,
     category: "tshirts",
     image: "/placeholder.svg?height=500&width=500",
     badge: "Best Seller",
-    rating: 999,
+    rating: 4.8,
     reviews: 124,
     variants: {
       colors: ["black", "navy", "gray"],
